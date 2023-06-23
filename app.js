@@ -40,4 +40,3 @@ app.post("/",function(req,res){
 app.listen(port,function(){
     console.log("server started")
 })
-console.log("hello")
